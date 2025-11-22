@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ChatGPT
+Comment=Cliente web minimal de ChatGPT
+Exec=/home/sergio/.local/bin/chatgpt-app
+Terminal=false
+Type=Application
+Categories=Utility;Education;Network;
+StartupWMClass=ChatGPT
+Icon=/home/sergio/.local/share/icons/chatgpt.png
